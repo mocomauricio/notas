@@ -1,0 +1,3 @@
+juan,perez,60,80
+marcos,benitez,20,30
+rosa,meltroso,75,35
